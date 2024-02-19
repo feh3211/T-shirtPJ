@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#ham{
+    background-color: black;
+    font-size: 3rem;
+    text-align: center;
+}
+#ham a{
+    margin-bottom: 2rem;
+    color: #ffff;
+    display: inline-block;
+    margin-right: 7rem;
+    font-size: 23px;
+    text-decoration: none;
+}
+#ham img{
+    
+}

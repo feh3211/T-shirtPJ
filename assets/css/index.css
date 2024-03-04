@@ -1,19 +1,47 @@
-body{
-    text-align: center;
+#ham {
+  background-color: black;
+  font-size: 3rem;
+  text-align: center;
 }
-#ham{
+#ham a {
+  margin-bottom: 2rem;
+  color: #ffff;
+  display: inline-block;
+  margin-right: 7rem;
+  font-size: 23px;
+  text-decoration: none;
+}
+
+#barraPesquisa {
+  text-align: center;
+}
+#barraPesquisa input {
+  background-color: white;
+}
+#barraPesquisa a {
+  text-decoration: none;
+  color: black;
+  padding: 3rem;
+}
+#categorias {
+  text-align: center;
+}
+
+#categorias a {
+  line-height: 5rem;
+  padding: 1rem;
+  text-decoration: none;
+  color: black;
+}
+
+footer{
     background-color: black;
-    font-size: 3rem;
-    text-align: center;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    border: 0;
 }
-#ham a{
-    margin-bottom: 2rem;
-    color: #ffff;
-    display: inline-block;
-    margin-right: 7rem;
-    font-size: 23px;
-    text-decoration: none;
-}
-#ham img{
-    
+
+#container{
+    display: grid;
 }

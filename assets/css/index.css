@@ -50,3 +50,8 @@ footer{
 #container{
     display: grid;
 }
+
+#vitin{
+  height: 50rem;
+  width: 50rem;
+}
